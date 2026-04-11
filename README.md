@@ -2,7 +2,7 @@
 
 This repository contains **only** legal and compliance documents for the mobile app **FrogClimb** (bundle identifier `com.frogjump.game`, store slug `frogjump`).
 
-**These documents are templates.** Replace all bracketed placeholders (for example `[APP_PUBLISHER_LEGAL_NAME]`) with your real details before publishing or submitting to the App Store. Have a qualified attorney review the final text for your jurisdiction and business structure.
+Legal pages are filled for **Ori Kalmanovich** (contact: **orikal3107@gmail.com**, Israel). You should still have a qualified attorney review the final text before relying on it in regulated contexts.
 
 ## Files
 

@@ -5,8 +5,8 @@
 
 ## Contact
 
-- **Email:** [CONTACT_EMAIL]  
-- **Response time:** We aim to respond within **[e.g. 5 business days]** for general inquiries.
+- **Email:** orikal3107@gmail.com  
+- **Response time:** We aim to respond within **5 business days** for general inquiries.
 
 ## Common topics
 
@@ -28,4 +28,4 @@ You can switch between buttons, tilt, and tap-side controls in **Settings**.
 
 ---
 
-Replace bracketed placeholders before publishing this page as your **Support URL**.
+**Operator:** Ori Kalmanovich (Israel).

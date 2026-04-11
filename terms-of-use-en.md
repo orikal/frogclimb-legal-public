@@ -1,8 +1,8 @@
 # Terms of Use — FrogClimb
 
-**Effective date:** [INSERT_DATE]  
-**Operator:** **[APP_PUBLISHER_LEGAL_NAME]**  
-**Contact:** [CONTACT_EMAIL]
+**Effective date:** 11 April 2026  
+**Operator:** **Ori Kalmanovich**  
+**Contact:** orikal3107@gmail.com
 
 These Terms of Use (“**Terms**”) govern your access to and use of the mobile application **FrogClimb** (the “**App**”). By downloading or using the App, you agree to these Terms.
 
@@ -96,7 +96,7 @@ Some jurisdictions do not allow certain limitations; in those jurisdictions, our
 
 ## 12. Indemnity
 
-To the extent permitted by law, you will indemnify and hold harmless **[APP_PUBLISHER_LEGAL_NAME]** and its directors, employees, and contractors from claims, damages, losses, and expenses (including reasonable attorneys’ fees) arising from your misuse of the App or violation of these Terms.
+To the extent permitted by law, you will indemnify and hold harmless **Ori Kalmanovich** and its directors, employees, and contractors from claims, damages, losses, and expenses (including reasonable attorneys’ fees) arising from your misuse of the App or violation of these Terms.
 
 ---
 
@@ -108,9 +108,9 @@ We may suspend or terminate access to the App if you materially breach these Ter
 
 ## 14. Governing law and disputes
 
-These Terms are governed by the laws of **[JURISDICTION, e.g. State of Israel]**, excluding conflict-of-law rules, unless mandatory consumer protection laws of your country require otherwise.
+These Terms are governed by the laws of the **State of Israel**, excluding conflict-of-law rules, unless mandatory consumer protection laws of your country require otherwise.
 
-Courts in **[VENUE_CITY_COUNTRY]** have exclusive jurisdiction, subject to non-waivable rights you may have as a consumer.
+Courts in **Tel Aviv-Yafo, Israel** have exclusive jurisdiction, subject to non-waivable rights you may have as a consumer.
 
 ---
 
@@ -124,12 +124,12 @@ We may modify these Terms. We will post the updated Terms and update the effecti
 
 If you obtained the App from the Apple App Store, the following applies:
 
-- **Acknowledgment:** These Terms are between you and **[APP_PUBLISHER_LEGAL_NAME]**, not Apple. Apple is not responsible for the App or its content.  
+- **Acknowledgment:** These Terms are between you and **Ori Kalmanovich**, not Apple. Apple is not responsible for the App or its content.  
 - **Scope of license:** The license is limited to a non-transferable license to use the App on Apple-branded products that you own or control, as permitted by the Usage Rules set forth in the Apple Media Services Terms and Conditions.  
 - **Maintenance:** Apple has no obligation to furnish maintenance or support for the App.  
 - **Warranty:** Apple is not responsible for any product warranties, whether express or implied by law. In the event of failure to conform to a warranty, you may notify Apple and Apple may refund the purchase price (if any); to the maximum extent permitted by law, Apple has no other warranty obligation.  
 - **Claims:** Apple is not responsible for addressing any claims relating to the App, including product liability claims, regulatory claims, or consumer protection claims.  
-- **IP claims:** In the event of a third-party claim that the App infringes intellectual property rights, **[APP_PUBLISHER_LEGAL_NAME]**, not Apple, is responsible for investigation, defense, settlement, and discharge, as required by Apple’s licensed application terms.  
+- **IP claims:** In the event of a third-party claim that the App infringes intellectual property rights, **Ori Kalmanovich**, not Apple, is responsible for investigation, defense, settlement, and discharge, as required by Apple’s licensed application terms.  
 - **Third-party beneficiaries:** Apple and Apple’s subsidiaries are third-party beneficiaries of these Terms and will have the right to enforce these Terms against you.
 
 ---
@@ -142,7 +142,7 @@ If you obtained the App from Google Play, Google may be a third-party beneficiar
 
 ## 18. Contact
 
-Questions about these Terms: **[CONTACT_EMAIL]**
+Questions about these Terms: **orikal3107@gmail.com**
 
 ---
 

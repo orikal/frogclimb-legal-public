@@ -1,12 +1,12 @@
 # Privacy Policy — FrogClimb
 
-**Effective date:** [INSERT_DATE, e.g. 11 April 2026]  
-**Last updated:** [INSERT_DATE]
+**Effective date:** 11 April 2026  
+**Last updated:** 11 April 2026
 
-This Privacy Policy describes how **[APP_PUBLISHER_LEGAL_NAME]** (“**we**”, “**us**”, “**our**”) handles information when you use the mobile application **FrogClimb** (the “**App**”), including builds distributed through the Apple App Store and Google Play.
+This Privacy Policy describes how **Ori Kalmanovich** (“**we**”, “**us**”, “**our**”) handles information when you use the mobile application **FrogClimb** (the “**App**”), including builds distributed through the Apple App Store and Google Play.
 
-**Contact:** [CONTACT_EMAIL]  
-**Postal / registered address (if required in your jurisdiction):** [LEGAL_ADDRESS]
+**Contact:** orikal3107@gmail.com  
+**Postal / registered address (if required in your jurisdiction):** Israel (for a full postal address, contact us at the email above).
 
 ---
 
@@ -80,7 +80,7 @@ If we add such tools, we will update this Privacy Policy and provide any require
 
 ## 9. Children’s privacy
 
-The App is a casual game. If you are a parent or guardian and believe your child has provided us personal information directly (for example by email), contact us at **[CONTACT_EMAIL]** and we will take reasonable steps to delete it.
+The App is a casual game. If you are a parent or guardian and believe your child has provided us personal information directly (for example by email), contact us at **orikal3107@gmail.com** and we will take reasonable steps to delete it.
 
 If you list the App in the “Kids” category or direct it primarily to children, additional obligations may apply (including under COPPA and platform rules). This template does not replace legal advice for Kids-category distribution.
 
@@ -112,7 +112,7 @@ Because we do not operate our own data warehouse for routine gameplay as describ
 
 ## 13. Your rights
 
-Depending on your location, you may have rights to access, correct, delete, or restrict processing of personal data, and to object to certain processing. To exercise rights against **Apple** or **Google**, use their privacy tools. To contact us, email **[CONTACT_EMAIL]**.
+Depending on your location, you may have rights to access, correct, delete, or restrict processing of personal data, and to object to certain processing. To exercise rights against **Apple** or **Google**, use their privacy tools. To contact us, email **orikal3107@gmail.com**.
 
 If you are in the **European Economic Area** and believe we unlawfully process personal data, you may lodge a complaint with your local supervisory authority.
 
@@ -120,7 +120,7 @@ If you are in the **European Economic Area** and believe we unlawfully process p
 
 ## 14. California / US state privacy notices
 
-If applicable state laws (including the **CPRA**) grant you rights regarding personal information, you may contact **[CONTACT_EMAIL]**. Because the App does not sell personal information for money as a core business practice, we do not maintain a “sale” opt-out flow for in-app telemetry in the configuration described above; if that changes, this policy will be updated.
+If applicable state laws (including the **CPRA**) grant you rights regarding personal information, you may contact **orikal3107@gmail.com**. Because the App does not sell personal information for money as a core business practice, we do not maintain a “sale” opt-out flow for in-app telemetry in the configuration described above; if that changes, this policy will be updated.
 
 ---
 
