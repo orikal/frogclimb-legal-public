@@ -18,11 +18,14 @@ This repository contains **only** legal and compliance documents for the mobile 
 
 App Store Connect requires a **publicly accessible** Privacy Policy URL (and typically a Support URL).
 
-**Option A — GitHub (simplest):** use the rendered Markdown link:
+**This repository (live):** [https://github.com/orikal/frogclimb-legal-public](https://github.com/orikal/frogclimb-legal-public)
 
-`https://github.com/[YOUR_USER]/frogclimb-legal/blob/main/privacy-policy-en.md`
+**Option A — GitHub (simplest):** link to the English privacy policy file (reviewers can open it in the browser):
 
-**Option B — GitHub Pages (cleaner URL):** enable Pages for this repo (branch `main`, folder `/docs` or root) and use e.g. `https://[YOUR_USER].github.io/frogclimb-legal/privacy-policy-en.html` after adding a static HTML copy if you prefer HTML over raw Markdown.
+- Privacy Policy: [privacy-policy-en.md on `main`](https://github.com/orikal/frogclimb-legal-public/blob/main/privacy-policy-en.md)  
+- Support page draft: [support.md on `main`](https://github.com/orikal/frogclimb-legal-public/blob/main/support.md)
+
+**Option B — GitHub Pages (cleaner URL):** enable Pages for this repo (branch `main`, folder `/docs` or root) and publish an HTML mirror if you prefer a non-GitHub UI URL.
 
 **Important:** whatever URL you submit must stay available for the lifetime of the app listing.
 
